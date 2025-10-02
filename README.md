@@ -1,13 +1,7 @@
 # Chrome-Automation
 Using Selenium with Java to automate opening Google Chrome and going to a specific page then signing in with a specific account.
 --------------------------------------------------------------------------------------------
-    /\_____/\
-   /  o   o  \
-  ( ==  ^  == )
-   )         (              
-  (           )
- ( (  )   (  ) )
-(__(__)___(__)__)
+🖥️╰(*°▽°*)╯
 ---------------------------------------------------------------------------------------------
 Copy demo to your machine first, Do not modify the one on the software share until you are sure your code runs in the vdi.
 
